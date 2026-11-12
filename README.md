@@ -6,14 +6,14 @@ A team-maintained repository for Java training exercises, assignments, and pract
 
 | Folder | Purpose |
 |---|---|
-| `DAY 1` – `DAY 10` | Daily Java training exercises |
-| `DAY 10 (Supermarket)` | Supermarket management project |
-| `DAY 12 (Shopping Cart with Billing)` | Shopping cart and billing project |
-| `DAY 13 JDBC (Student Management System)` | JDBC-based student management project |
-| `DAY 20` | Advanced training exercises |
-| `Shopping Cart` | Shopping cart application |
+| `DAY-01` – `DAY-10` | Daily Java training exercises |
+| `DAY-10-Supermarket` | Supermarket management project |
+| `DAY-12-Shopping-Cart-Billing` | Shopping cart and billing project |
+| `DAY-13-JDBC-Student-Management` | JDBC-based student management project |
+| `DAY-20-Advanced` | Advanced training exercises |
+| `Shopping-Cart` | Shopping cart application |
 
-> Add programs to the relevant day folder as the trainer covers each topic. Confirm exact assignment requirements before implementing project features.
+The existing root-level `DAY 1` file has been preserved. New day-wise work should go in the numbered folders above.
 
 ## Run Java programs
 
