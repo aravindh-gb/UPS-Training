@@ -1,0 +1,7 @@
+ecommerce/target/
+ecommerce-ui/node_modules/
+ecommerce-ui/dist/
+ecommerce-ui/.env
+ecommerce-ui/.env.local
+.idea/
+.vscode/
